@@ -1,0 +1,86 @@
+Stack Operations
+1.Push 
+2.Pop 
+3.Display 
+4.Exit 
+Enter your choice: 1
+Enter value to be inserted: 1
+Node insertedStack Operations
+1.Push 
+2.Pop 
+3.Display 
+4.Exit 
+Enter your choice: 1
+Enter value to be inserted: 2
+Node insertedStack Operations
+1.Push 
+2.Pop 
+3.Display 
+4.Exit 
+Enter your choice: 1
+Enter value to be inserted: 3
+Node insertedStack Operations
+1.Push 
+2.Pop 
+3.Display 
+4.Exit 
+Enter your choice: 1
+Enter value to be inserted: 4
+Node insertedStack Operations
+1.Push 
+2.Pop 
+3.Display 
+4.Exit 
+Enter your choice: 1
+Enter value to be inserted: 5
+Node insertedStack Operations
+1.Push 
+2.Pop 
+3.Display 
+4.Exit 
+Enter your choice: 3
+Stack: 
+5 
+4 
+3 
+2 
+1 
+Stack Operations
+1.Push 
+2.Pop 
+3.Display 
+4.Exit 
+Enter your choice: 2
+Node deletedStack Operations
+1.Push 
+2.Pop 
+3.Display 
+4.Exit 
+Enter your choice: 3
+Stack: 
+4 
+3 
+2 
+1 
+Stack Operations
+1.Push 
+2.Pop 
+3.Display 
+4.Exit 
+Enter your choice: 2
+Node deletedStack Operations
+1.Push 
+2.Pop 
+3.Display 
+4.Exit 
+Enter your choice: 3
+Stack: 
+3 
+2 
+1 
+Stack Operations
+1.Push 
+2.Pop 
+3.Display 
+4.Exit 
+Enter your choice: 
