@@ -24,7 +24,7 @@ This repository contains Data Structures Lab programs in C language
     * Insertion of node to the left of node
     * Deletion of node based on specific value
     * Display list
-10. Tree ooperations
-    * Constructing binary search tree
+10. Tree operations
+    * Constructing Binary Search Tree
     * Traversing tree
     * Display elements in tree
