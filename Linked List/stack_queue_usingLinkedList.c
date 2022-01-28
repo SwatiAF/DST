@@ -1,4 +1,6 @@
 //Stack & Queue implementation using Linked List
+//INCOMPLETE PROGRAM
+
 
 #include<stdio.h>
 #include<stdlib.h>
