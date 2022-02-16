@@ -1,4 +1,4 @@
-//Deletion in a Linked List
+//DELETION IN A LINKED LIST
 
 #include<stdio.h>
 #include<stdlib.h>
