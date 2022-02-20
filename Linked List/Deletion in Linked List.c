@@ -8,6 +8,34 @@ struct node {
 };
 struct node *head;
 
+void insertion() {
+    struct node *ptr, *temp;
+    int item;
+    ptr = (struct node *)malloc(sizeof(struct node *));
+    if(ptr == NULL) {
+        printf("Queue Full\n");
+    }
+    else {
+        printf("Enter value to be inserted: ");
+        scanf("%d", &item);
+        ptr->data = item;
+        if(head == NULL) {
+            ptr->next = NULL;
+            head = ptr;
+            printf("Node inserted\n");
+        }
+        else {
+            temp = head;
+            while(temp->next != NULL) {
+                temp = temp->next;
+            }
+            temp->next = ptr;
+            ptr->next = NULL;
+            printf("Node inserted\n");
+        }
+    }
+}
+
  void deleteAtStart() {
         struct node *ptr;
         if(head == NULL) {
@@ -72,19 +100,21 @@ void main() {
     int choice;
     while(1) {
         printf("Deletion Operations: \n");
-        printf("\n1.Delete at beginning\n 2.Delete at random location\n 3.Delete at end\n 4.Display\n 5.Exit\n");
+        printf("\n 1.Insertion\n 2.Delete at beginning\n 3.Delete at random location\n 4.Delete at end\n 5.Display\n 6.Exit\n");
         printf("Enter your choice: ");
         scanf("%d", &choice);
         switch(choice){
-            case 1: deleteAtStart();
+            case 1: insertion();
                 break;
-            case 2: deleteRandom();
+            case 2: deleteAtStart();
                 break;
-            case 3: deleteAtEnd();
+            case 3: deleteRandom();
                 break;
-            case 4: display();
+            case 4: deleteAtEnd();
                 break;
-            case 5: exit(1);
+            case 5: display();
+                break;
+            case 6: exit(1);
                 break;
             default: printf("Invalid Choice");
         }
