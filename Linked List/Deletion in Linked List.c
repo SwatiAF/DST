@@ -50,15 +50,24 @@ void insertion() {
     }
     
 void deleteAtEnd() {
-    struct node *ptr;
+    struct node *ptr, *ptr1;
    if(head == NULL) {
        printf("Stack empty\n");
+   } 
+   else if(head -> next == NULL) {
+       head = NULL;
+       free(head);
+       printf("Only node of the list is deleted\n");
    }
    else {
        ptr = head;
-       head = ptr ->next;
+       while(ptr -> next != NULL) {
+           ptr1 = ptr;
+           ptr = ptr-> next;
+       }
+       ptr1 -> next = NULL;
        free(ptr);
-       printf("Node deleted\n");
+       printf("Node deleted");
    }
 }
 
