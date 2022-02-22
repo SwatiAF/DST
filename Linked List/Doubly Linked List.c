@@ -57,16 +57,16 @@ void deleteSpecified() {
 }
 
 void display() {
-    struct node *temp;
-    if(temp == NULL) {
+    struct node *temp = head;
+    if(head == NULL) {
+        printf("List empty");
         return;
     }
-    else {
-        while(temp != NULL) {
-            printf("%d", temp->data);
+    printf("List: \n");
+    while(temp != NULL) {
+            printf("%d\n", temp->data);
             temp = temp->next;
     }
-}
 }
 
 void main() {
