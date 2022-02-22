@@ -1,3 +1,4 @@
+Deletion Operations: 
 
  1.Insertion
  2.Delete at beginning
@@ -6,8 +7,9 @@
  5.Display
  6.Exit
 Enter your choice: 1
-Enter value to be inserted: 1
+Enter value to be inserted: 9
 Node inserted
+Deletion Operations: 
 
  1.Insertion
  2.Delete at beginning
@@ -16,8 +18,9 @@ Node inserted
  5.Display
  6.Exit
 Enter your choice: 1
-Enter value to be inserted: 2
+Enter value to be inserted: 8
 Node inserted
+Deletion Operations: 
 
  1.Insertion
  2.Delete at beginning
@@ -26,28 +29,9 @@ Node inserted
  5.Display
  6.Exit
 Enter your choice: 1
-Enter value to be inserted: 3
+Enter value to be inserted: 7
 Node inserted
-
- 1.Insertion
- 2.Delete at beginning
- 3.Delete at random location
- 4.Delete at end
- 5.Display
- 6.Exit
-Enter your choice: 1
-Enter value to be inserted: 4
-Node inserted
-
- 1.Insertion
- 2.Delete at beginning
- 3.Delete at random location
- 4.Delete at end
- 5.Display
- 6.Exit
-Enter your choice: 1
-Enter value to be inserted: 5
-Node inserted
+Deletion Operations: 
 
  1.Insertion
  2.Delete at beginning
@@ -58,6 +42,18 @@ Node inserted
 Enter your choice: 1
 Enter value to be inserted: 6
 Node inserted
+Deletion Operations: 
+
+ 1.Insertion
+ 2.Delete at beginning
+ 3.Delete at random location
+ 4.Delete at end
+ 5.Display
+ 6.Exit
+Enter your choice: 1
+Enter value to be inserted: 5
+Node inserted
+Deletion Operations: 
 
  1.Insertion
  2.Delete at beginning
@@ -67,6 +63,7 @@ Node inserted
  6.Exit
 Enter your choice: 2
 Node deleted
+Deletion Operations: 
 
  1.Insertion
  2.Delete at beginning
@@ -76,6 +73,7 @@ Node deleted
  6.Exit
 Enter your choice: 2
 Node deleted
+Deletion Operations: 
 
  1.Insertion
  2.Delete at beginning
@@ -85,10 +83,10 @@ Node deleted
  6.Exit
 Enter your choice: 5
 List: 
-3 
-4 
+7 
+6 
 5 
-6 
+Deletion Operations: 
 
  1.Insertion
  2.Delete at beginning
@@ -96,19 +94,10 @@ List:
  4.Delete at end
  5.Display
  6.Exit
-Enter your choice: 3
-Enter the location to be added at: 4
-Cannot delete at this location
-
- 1.Insertion
- 2.Delete at beginning
- 3.Delete at random location
- 4.Delete at end
- 5.Display
- 6.Exit
-Enter your choice: 3
-Enter the location to be added at: 2
-Deleted Node: 3
+Enter your choice: 2 3
+Enter the location to be added at: 1
+Deleted Node: 2
+Deletion Operations: 
 
  1.Insertion
  2.Delete at beginning
@@ -118,9 +107,9 @@ Deleted Node: 3
  6.Exit
 Enter your choice: 5
 List: 
-3 
-4 
-6 
+7 
+5 
+Deletion Operations: 
 
  1.Insertion
  2.Delete at beginning
@@ -129,7 +118,7 @@ List:
  5.Display
  6.Exit
 Enter your choice: 4
-Node deleted
+Node deletedDeletion Operations: 
 
  1.Insertion
  2.Delete at beginning
@@ -139,5 +128,13 @@ Node deleted
  6.Exit
 Enter your choice: 5
 List: 
-4 
-6 
+7 
+Deletion Operations: 
+
+ 1.Insertion
+ 2.Delete at beginning
+ 3.Delete at random location
+ 4.Delete at end
+ 5.Display
+ 6.Exit
+Enter your choice: 
