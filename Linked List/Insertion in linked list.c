@@ -119,43 +119,16 @@ void main() {
     }
 }
 
-Output: 
-Insertion Operations: 
+
+
+/*OUTPUT : 
+Insertion Operations:
 1.Insert at beginning
  2.Insert at random location
  3.Insert at end
  4.Display
  5.Exit
 Enter choice: 1
-Enter value to be inserted: 1
-Node inserted
-Insertion Operations: 
-1.Insert at beginning
- 2.Insert at random location
- 3.Insert at end
- 4.Display
- 5.Exit
-Enter choice: 2
-Enter value to be inserted: 2
-Enter Location after which value is to be inserted: 2
-Value cannot be inserted here
-Insertion Operations: 
-1.Insert at beginning
- 2.Insert at random location
- 3.Insert at end
- 4.Display
- 5.Exit
-Enter choice: 
-3
-Enter value to be inserted: 2
-Node inserted
-Insertion Operations: 
-1.Insert at beginning
- 2.Insert at random location
- 3.Insert at end
- 4.Display
- 5.Exit
-Enter choice: 3
 Enter value to be inserted: 3
 Node inserted
 Insertion Operations: 
@@ -164,19 +137,57 @@ Insertion Operations:
  3.Insert at end
  4.Display
  5.Exit
-Enter choice: 
-4
-List: 
-1 
-2 
-3 
+Enter choice: 3
+Enter value to be inserted: 6
+Node inserted
 Insertion Operations: 
 1.Insert at beginning
  2.Insert at random location
  3.Insert at end
  4.Display
  5.Exit
-Enter choice: 
+Enter choice: 1
+Enter value to be inserted: 4
+Node inserted
+Insertion Operations: 
+1.Insert at beginning
+ 2.Insert at random location
+ 3.Insert at end
+ 4.Display
+ 5.Exit
+Enter choice: 2
+Enter value to be inserted: 1 7
+Enter Location after which value is to be inserted: 1
+Node inserted
+Insertion Operations: 
+1.Insert at beginning
+ 2.Insert at random location
+ 3.Insert at end
+ 4.Display
+ 5.Exit
+Enter choice: 3
+Enter value to be inserted: 5
+Node inserted
+Insertion Operations: 
+1.Insert at beginning
+ 2.Insert at random location
+ 3.Insert at end
+ 4.Display
+ 5.Exit
+Enter choice: 4
+List: 
+4 
+3 
+7 
+6 
+5 
+Insertion Operations: 
+1.Insert at beginning
+ 2.Insert at random location
+ 3.Insert at end
+ 4.Display
+ 5.Exit
+Enter choice: */
 
 
 
