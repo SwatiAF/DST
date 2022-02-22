@@ -131,6 +131,7 @@ Insertion Operations:
 Enter choice: 1
 Enter value to be inserted: 3
 Node inserted
+
 Insertion Operations: 
 1.Insert at beginning
  2.Insert at random location
@@ -140,6 +141,7 @@ Insertion Operations:
 Enter choice: 3
 Enter value to be inserted: 6
 Node inserted
+
 Insertion Operations: 
 1.Insert at beginning
  2.Insert at random location
@@ -149,6 +151,7 @@ Insertion Operations:
 Enter choice: 1
 Enter value to be inserted: 4
 Node inserted
+
 Insertion Operations: 
 1.Insert at beginning
  2.Insert at random location
@@ -156,9 +159,10 @@ Insertion Operations:
  4.Display
  5.Exit
 Enter choice: 2
-Enter value to be inserted: 1 7
+Enter value to be inserted: 7
 Enter Location after which value is to be inserted: 1
 Node inserted
+
 Insertion Operations: 
 1.Insert at beginning
  2.Insert at random location
@@ -168,6 +172,7 @@ Insertion Operations:
 Enter choice: 3
 Enter value to be inserted: 5
 Node inserted
+
 Insertion Operations: 
 1.Insert at beginning
  2.Insert at random location
@@ -181,13 +186,8 @@ List:
 7 
 6 
 5 
-Insertion Operations: 
-1.Insert at beginning
- 2.Insert at random location
- 3.Insert at end
- 4.Display
- 5.Exit
-Enter choice: */
+
+ */
 
 
 
